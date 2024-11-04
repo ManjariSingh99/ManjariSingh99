@@ -1,5 +1,5 @@
 # 💫 About Me:
-Passionate about building backend solutions with Python and Django, and always exploring 🌱 & learning new technologies to stay ahead. I am interested in data science 📊 and eager to expand my expertise to deliver even more value in my work.<br><br>✨ Excited to collaborate on innovative projects! Let's connect and create something amazing together. 🤝
+Passionate about building backend solutions with Python, and always exploring 🌱 & learning new technologies to stay ahead. I am interested in data science 📊 and eager to expand my expertise to deliver even more value in my work.<br><br>✨ Excited to collaborate on innovative projects! Let's connect and create something amazing together. 🤝
 
 
 ## 🌐 Socials:
